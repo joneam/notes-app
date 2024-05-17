@@ -5,3 +5,4 @@ Trying out React-router and optimizing page rendering
 - Vite
 - React-router-dom
 - SASS/SCSS
+- Zustand
